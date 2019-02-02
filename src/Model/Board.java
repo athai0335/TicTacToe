@@ -1,8 +1,5 @@
 package Model;
 
-import java.lang.reflect.Array;
-import java.util.Arrays;
-
 public class Board {
 	Tile [][] board;
 	int numRows = 3;
